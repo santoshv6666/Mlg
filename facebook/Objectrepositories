@@ -1,0 +1,3 @@
+usernameobj=//*[@id="email"]
+passwordobj=//*[@id="pass"]
+enter=.//*[@id="u_0_3"]
